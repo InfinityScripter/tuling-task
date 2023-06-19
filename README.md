@@ -72,6 +72,12 @@
 
 ![Load_img.png](img%2FLoad_img.png)
 
+#### 2.3. DOM-элемент на котором происходит LCP
+
+- `<img loading="lazy" src="/images/branding/10/imageTop_1628667062.7856.jpg" data-url="/images/branding/10/imageTop_1628667062.7856.jpg" alt="-">`
+
+![14img.png](img%2F14img.png)
+
 #### 2.4. Время в ms тратится на разные этапы обработки документа (Loading, Scripting, Rendering, Painting)
 
 - Loading - 39 ms
